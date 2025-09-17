@@ -15,6 +15,15 @@
 
 ---
 
+
+##  Cisco
+
+[![Cybersecurity](https://img.shields.io/badge/Cisco-Cybersecurity-blue)](https://www.credly.com/badges/8dbd690f-f42e-4428-8990-a02be5b6135f/public_url)  
+[![Networking Basics](https://img.shields.io/badge/Cisco-Networking_Basics-green)](https://www.credly.com/badges/c0e7d3b0-2466-4907-8962-7c794d613207/public_url)  
+[![IT Essentials](https://img.shields.io/badge/Cisco-IT_Essentials-red)](https://www.credly.com/badges/13aa5219-7801-4d40-a344-d2eb75e87b35/public_url)  
+[![Introduction to IoT](https://img.shields.io/badge/Cisco-Introduction_to_IoT-yellow)](https://www.credly.com/badges/041aee07-213c-40c2-9ce1-853dbe541ae1/public_url)
+
+
 📫 **Contact me:**  
 tania.hrynda@gmail.com
 
